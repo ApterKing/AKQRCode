@@ -1,0 +1,2 @@
+# AKQRCode
+QRCode genetor / scanner
